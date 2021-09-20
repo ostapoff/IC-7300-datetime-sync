@@ -1,1 +1,1 @@
-PowerShell.exe i7300-datetime-sync.ps1
+PowerShell.exe -executionpolicy bypass -File .\i7300-datetime-sync.ps1
